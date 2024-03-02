@@ -1,5 +1,5 @@
 # Data Analysis on Image Segmentation Data
-Overview
+Overview : 
 This project focuses on the analysis of image segmentation data, aiming to extract meaningful insights and make predictions using machine learning techniques. The dataset comprises a database of 7 outdoor images, with a training set containing 210 rows and 20 columns, and a test set containing 2100 rows and 20 columns.
 # Key Steps
 ## 1. Data Cleaning and Exploration
